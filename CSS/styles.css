@@ -205,7 +205,7 @@ a, a:hover {
 }
 
 .DsMovie-pagination-box button img {
-filter: brightness(0) saturate(100%) invert(27%) sepia(54%) saturate(2452%) hue-rotate(230deg) brightness(85%) contrast(90%);
+    filter: brightness(0) saturate(100%) invert(27%) sepia(54%) saturate(2452%) hue-rotate(230deg) brightness(85%) contrast(90%);
 }
 
 .DsMovie-pagination-box button:disabled {
